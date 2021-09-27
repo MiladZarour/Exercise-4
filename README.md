@@ -8,6 +8,8 @@ A programming language is a set of commands, instructions, and other syntax use 
 
 ## What is a compiler?
 
+A compiler is a program that translates a source program written in some high-level programming language (such as Java) into machine code for some computer architecture (such as the Intel Pentium architecture). The generated machine code can be later executed many times against different data each time.
+
 ## What is a debugger?
 
 ## What is an IDE (Integrated Development Environment)?
